@@ -31,7 +31,9 @@ h4 {
 
 }
 
-
+h4 + .amiable {
+  
+}
 
 .indifferent {
   border: 1px solid #bbbb00;
